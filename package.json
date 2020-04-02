@@ -80,5 +80,6 @@
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-react": "^7.19.0",
     "gh-pages": "^2.2.0"
-  }
+  },
+  "homepage": "http://shashankr.me/coroNO"
 }
