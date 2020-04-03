@@ -4,12 +4,6 @@ import * as Icon from 'react-feather';
 
 import './App.scss';
 import Home from './components/home';
-import Navbar from './components/navbar';
-import Links from './components/links';
-import Summary from './components/summary';
-import Cluster from './components/cluster';
-import FAQ from './components/faq';
-import Banner from './components/banner';
 
 const history = require('history').createBrowserHistory;
 

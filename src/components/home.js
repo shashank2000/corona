@@ -1,14 +1,11 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
-import {format, zonedTimeToUtc} from 'date-fns-tz';
-import {formatDistance} from 'date-fns';
-// we don't need all these unused imports
-import Table from './table';
-import Level from './level';
+// import {format, zonedTimeToUtc} from 'date-fns-tz';
+// import {formatDistance} from 'date-fns';
+// // we don't need all these unused imports
+// import Table from './table';
+// import Level from './level';
 import MapExplorer from './mapexplorer';
-import TimeSeries from './timeseries';
-import Minigraph from './minigraph';
-import Banner from './banner';
 
 function Home(props) {
   const [states, setStates] = useState([]);
