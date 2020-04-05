@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.298b86c4.chunk.css",
-    "main.js": "/static/js/main.0fa23acc.chunk.js",
-    "main.js.map": "/static/js/main.0fa23acc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.64782aae.js",
-    "runtime-main.js.map": "/static/js/runtime-main.64782aae.js.map",
-    "static/js/2.e134da7d.chunk.js": "/static/js/2.e134da7d.chunk.js",
-    "static/js/2.e134da7d.chunk.js.map": "/static/js/2.e134da7d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b3064625b5425a063f3b7166fa4a560c.js": "/precache-manifest.b3064625b5425a063f3b7166fa4a560c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.298b86c4.chunk.css.map": "/static/css/main.298b86c4.chunk.css.map",
-    "static/js/2.e134da7d.chunk.js.LICENSE.txt": "/static/js/2.e134da7d.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/static/media/archia-thin-webfont.e88f1cf3.woff2",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/coronoClone/static/css/main.64026f63.chunk.css",
+    "main.js": "/coronoClone/static/js/main.9df1480e.chunk.js",
+    "main.js.map": "/coronoClone/static/js/main.9df1480e.chunk.js.map",
+    "runtime-main.js": "/coronoClone/static/js/runtime-main.776181ce.js",
+    "runtime-main.js.map": "/coronoClone/static/js/runtime-main.776181ce.js.map",
+    "static/js/2.e134da7d.chunk.js": "/coronoClone/static/js/2.e134da7d.chunk.js",
+    "static/js/2.e134da7d.chunk.js.map": "/coronoClone/static/js/2.e134da7d.chunk.js.map",
+    "index.html": "/coronoClone/index.html",
+    "precache-manifest.44d0fd8d792d3171f22e8a20e4465b82.js": "/coronoClone/precache-manifest.44d0fd8d792d3171f22e8a20e4465b82.js",
+    "service-worker.js": "/coronoClone/service-worker.js",
+    "static/css/main.64026f63.chunk.css.map": "/coronoClone/static/css/main.64026f63.chunk.css.map",
+    "static/js/2.e134da7d.chunk.js.LICENSE.txt": "/coronoClone/static/js/2.e134da7d.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/coronoClone/static/media/archia-thin-webfont.e88f1cf3.woff2",
+    "static/media/logo.svg": "/coronoClone/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64782aae.js",
+    "static/js/runtime-main.776181ce.js",
     "static/js/2.e134da7d.chunk.js",
-    "static/css/main.298b86c4.chunk.css",
-    "static/js/main.0fa23acc.chunk.js"
+    "static/css/main.64026f63.chunk.css",
+    "static/js/main.9df1480e.chunk.js"
   ]
 }
