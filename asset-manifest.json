@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coronoClone/static/css/main.8242876c.chunk.css",
-    "main.js": "/coronoClone/static/js/main.9df1480e.chunk.js",
-    "main.js.map": "/coronoClone/static/js/main.9df1480e.chunk.js.map",
+    "main.css": "/coronoClone/static/css/main.15823e56.chunk.css",
+    "main.js": "/coronoClone/static/js/main.6e627ece.chunk.js",
+    "main.js.map": "/coronoClone/static/js/main.6e627ece.chunk.js.map",
     "runtime-main.js": "/coronoClone/static/js/runtime-main.776181ce.js",
     "runtime-main.js.map": "/coronoClone/static/js/runtime-main.776181ce.js.map",
     "static/js/2.e134da7d.chunk.js": "/coronoClone/static/js/2.e134da7d.chunk.js",
     "static/js/2.e134da7d.chunk.js.map": "/coronoClone/static/js/2.e134da7d.chunk.js.map",
     "index.html": "/coronoClone/index.html",
-    "precache-manifest.cbea47dfa464343bfb6302d008088edd.js": "/coronoClone/precache-manifest.cbea47dfa464343bfb6302d008088edd.js",
+    "precache-manifest.f4d2358c3960ba59ba5a67719cf9a1fd.js": "/coronoClone/precache-manifest.f4d2358c3960ba59ba5a67719cf9a1fd.js",
     "service-worker.js": "/coronoClone/service-worker.js",
-    "static/css/main.8242876c.chunk.css.map": "/coronoClone/static/css/main.8242876c.chunk.css.map",
+    "static/css/main.15823e56.chunk.css.map": "/coronoClone/static/css/main.15823e56.chunk.css.map",
     "static/js/2.e134da7d.chunk.js.LICENSE.txt": "/coronoClone/static/js/2.e134da7d.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/coronoClone/static/media/archia-thin-webfont.e88f1cf3.woff2",
     "static/media/logo.svg": "/coronoClone/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.776181ce.js",
     "static/js/2.e134da7d.chunk.js",
-    "static/css/main.8242876c.chunk.css",
-    "static/js/main.9df1480e.chunk.js"
+    "static/css/main.15823e56.chunk.css",
+    "static/js/main.6e627ece.chunk.js"
   ]
 }
