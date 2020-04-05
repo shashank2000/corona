@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/coronoClone/static/css/main.5d64a796.chunk.css",
+    "main.css": "/coronoClone/static/css/main.c9471ecb.chunk.css",
     "main.js": "/coronoClone/static/js/main.b25870af.chunk.js",
     "main.js.map": "/coronoClone/static/js/main.b25870af.chunk.js.map",
     "runtime-main.js": "/coronoClone/static/js/runtime-main.c69a8be5.js",
@@ -8,16 +8,16 @@
     "static/js/2.7800f00e.chunk.js": "/coronoClone/static/js/2.7800f00e.chunk.js",
     "static/js/2.7800f00e.chunk.js.map": "/coronoClone/static/js/2.7800f00e.chunk.js.map",
     "index.html": "/coronoClone/index.html",
-    "precache-manifest.57e7d25acbf7f8e0d6a808e73a21e610.js": "/coronoClone/precache-manifest.57e7d25acbf7f8e0d6a808e73a21e610.js",
+    "precache-manifest.6ff0e63abb8b119d392959d9ef4944a4.js": "/coronoClone/precache-manifest.6ff0e63abb8b119d392959d9ef4944a4.js",
     "service-worker.js": "/coronoClone/service-worker.js",
-    "static/css/main.5d64a796.chunk.css.map": "/coronoClone/static/css/main.5d64a796.chunk.css.map",
+    "static/css/main.c9471ecb.chunk.css.map": "/coronoClone/static/css/main.c9471ecb.chunk.css.map",
     "static/js/2.7800f00e.chunk.js.LICENSE.txt": "/coronoClone/static/js/2.7800f00e.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/coronoClone/static/media/archia-thin-webfont.e88f1cf3.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c69a8be5.js",
     "static/js/2.7800f00e.chunk.js",
-    "static/css/main.5d64a796.chunk.css",
+    "static/css/main.c9471ecb.chunk.css",
     "static/js/main.b25870af.chunk.js"
   ]
 }
